@@ -1,0 +1,10 @@
+todolist\tutorial\project\model\ToDoData.class
+todolist\tutorial\project\util\Mappings.class
+todolist\tutorial\project\service\ToDoItemServiceImpl.class
+todolist\tutorial\project\controller\ToDoItemController.class
+todolist\tutorial\project\config\WebAppInitializer.class
+todolist\tutorial\project\util\ViewNames.class
+todolist\tutorial\project\service\ToDoItemService.class
+todolist\tutorial\project\model\ToDoItem.class
+todolist\tutorial\project\util\AttributeNames.class
+todolist\tutorial\project\config\WebConfig.class
